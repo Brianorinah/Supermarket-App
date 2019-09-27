@@ -1,2 +1,2 @@
 # Supermarket-App
-This is a laravel supermarket application.
+Creating a laravel supermarket application to deepen my laravel+VueJs skills.
